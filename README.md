@@ -2,7 +2,7 @@
 
 [MSKey](https://ronhuidrom.github.io/mskey) (Meetei Script Keyboard) is a virtual keyboard for the [Meetei Script](https://ronhuidrom.github.io/meetei-script) (or Meetei Mayek).
 
-MSKey is here: [ronhuidrom.github.io/mskey](https://ronhuidrom.github.io/mskey).
+MSKey is here: [huidr.github.io/mskey](https://ronhuidrom.github.io/mskey).
 
 ### Type Meetei Script on the go, any device, everywhere. No external app nor installation required.
 
